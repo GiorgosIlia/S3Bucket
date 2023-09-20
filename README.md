@@ -75,9 +75,3 @@ You can customize the list of files to upload to the S3 bucket by editing the `t
 ## License
 
 This Terraform configuration is provided under the [MIT License](LICENSE).
-
-```
-
-Replace `<repository-url>` and `<project-directory>` with the appropriate values for your project.
-
-Feel free to customize this `README.md` file further to include any additional information or instructions specific to your project.
