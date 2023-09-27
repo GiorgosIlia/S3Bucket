@@ -15,7 +15,7 @@ Before you begin, ensure you have the following:
 
 The `main.tf` file contains the main Terraform configuration for creating the AWS S3 bucket and configuring it. Here's an overview of what it does:
 
-- Creates an AWS S3 bucket named "UniqueBucketName".
+- Creates an AWS S3 bucket named "UniqueBucketName."
 - Enables versioning for the S3 bucket.
 - Configures the bucket to host a static website with "greetingPage.html" as the index document.
 - Adds tags to the S3 bucket for identification.
@@ -39,7 +39,7 @@ The `terraform.tfvars` file is used to set input variables for your Terraform co
 2. Change into the project directory:
 
    ```shell
-   cd S3 bucket
+   cd S3Bucket
    ```
 
 3. Initialize the Terraform working directory:
